@@ -1164,15 +1164,15 @@ header.sticky .hamburger-inner, header.sticky .hamburger-inner::before, header.s
   background-color: rgba(0, 0, 0, 0.6);
 }
 .hero_in.tours_detail {
-  height: 550px;
+  height: 430px;
 }
 @media (max-width: 575px) {
   .hero_in.tours_detail {
-    height: 500px;
+    height: 430px;
   }
 }
 .hero_in.tours_detail:before {
-  background: url(../img/hero_in_tours_detail.jpg) center center no-repeat;
+  background: url(../img/bmw-i7.png) center center no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
