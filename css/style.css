@@ -672,7 +672,7 @@ a.btn_1.full-width,
 }
 a.btn_1.full-width.purchase,
 .btn_1.full-width.purchase {
-  background-color: #32a067;
+  background-color: #CFB569;
 }
 a.btn_1.full-width.purchase:hover,
 .btn_1.full-width.purchase:hover {
@@ -3235,7 +3235,7 @@ a.box_feat:hover {
 a.box_feat i {
   font-size: 70px;
   font-size: 4.375rem;
-  color: #32a067;
+  color: #CFB569;
   margin-bottom: 10px;
 }
 a.box_feat h3 {
@@ -3393,7 +3393,7 @@ a.box_feat h3 {
   color: #999;
 }
 .box_grid .price strong {
-  color: #32a067;
+  color: #CFB569;
 }
 .box_grid a.wish_bt {
   position: absolute;
@@ -3758,7 +3758,7 @@ a.box_feat h3 {
   color: #999;
 }
 .box_list .wrapper .price strong {
-  color: #32a067;
+  color: #CFB569;
 }
 .box_list small {
   text-transform: uppercase;
@@ -3937,7 +3937,7 @@ a.boxed_list p {
   margin-bottom: 0;
 }
 a.boxed_list:hover i {
-  color: #32a067;
+  color: #CFB569;
 }
 
 /*-------- 2.4 Detail page --------*/
@@ -5244,7 +5244,7 @@ span.infobox_rate {
   width: 100%;
 }
 .bs-wizard > .bs-wizard-step.disabled > .bs-wizard-dot {
-  background-color: #0054a6;
+  background-color: black;
 }
 .bs-wizard > .bs-wizard-step.disabled > .bs-wizard-dot:after {
   opacity: 0;
@@ -5276,7 +5276,7 @@ span.infobox_rate {
   -ms-border-radius: 50%;
   border-radius: 50%;
   border: 2px solid #fff;
-  background-color: #0054a6;
+  background-color: black;
 }
 .bs-wizard > .bs-wizard-step > .bs-wizard-dot:after {
   content: '\e903';
@@ -5290,7 +5290,7 @@ span.infobox_rate {
   left: 9px;
   font-size: 32px;
   font-size: 2rem;
-  color: #FFC107;
+  color: #CFB569;
 }
 .bs-wizard > .bs-wizard-step > .progress {
   position: relative;
@@ -5823,7 +5823,7 @@ a.box_topic:hover {
 a.box_topic i {
   font-size: 60px;
   font-size: 3.75rem;
-  color: #32a067;
+  color: #CFB569;
   margin-bottom: 10px;
   -webkit-border-radius: 50px;
   -moz-border-radius: 50px;
@@ -6587,7 +6587,7 @@ header.header.map_view .hamburger-inner, header.header.map_view .hamburger-inner
   color: #222;
 }
 .search_map_wp input[type='submit']:hover {
-  background-color: #32a067;
+  background-color: #CFB569;
   color: #fff;
 }
 
@@ -8624,7 +8624,7 @@ ul.bullets li:before {
   }
 }
 #cookie-bar .cb-enable {
-  background: #32a067;
+  background: #CFB569;
 }
 #cookie-bar .cb-enable:hover {
   background: #fff;
